@@ -5,7 +5,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node Myapp.js"
+		"start": "node myApp.js"
 	},
 	"repository": {
 		"type": "git",
